@@ -17,7 +17,7 @@ Implement a simple file manager using OOP (classes, inheritance, etc.). File man
 
 ## Compilation
 
-To compile the program, use a C++ compiler such as `g++`:
+Use a C++ compiler `g++`:
 
 ```sh
 g++ -o FinalExamTask01 FinalExamTask01.cpp
